@@ -5,29 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60413a68-2dec-4af8-972b-c04b6a2505b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/IObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/PostOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/wrappers/CharWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/wrappers/FloatWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/wrappers/IntWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/wrappers/ObjectWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/wrappers/StringWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/IObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/IObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/Neighborhood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/Neighborhood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/PostOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/PostOffice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/wrappers/CharWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/wrappers/CharWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/wrappers/FloatWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/wrappers/FloatWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/wrappers/IntWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/wrappers/IntegerWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/wrappers/ObjectWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/wrappers/ObjectWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/wrappers/StringWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/wrappers/StringWrapper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +30,31 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OOPFRPLanguage" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="OOPFRPLanguage" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,9 +67,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2heNToNoGhyPswZM9WNdjBDZgM3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -61,9 +78,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Gradle.Build OOPFRP-Language.executor": "Run",
+    "Gradle.OOPFRP-Language [:Main.main()].executor": "Run",
     "Gradle.OOPFRPLanguage [:Main.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "aspect.path.notification.shown": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -71,14 +93,41 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.language",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-22.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="OOPFRPLanguage.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-a39a91d7" />
+        <option value="jdk-21.0.2-corretto-21.0.2-4caba194b151-fd297b8c" />
+        <option value="jdk-22-openjdk-22-4caba194b151-6fbd92ee" />
       </set>
     </attachedChunks>
   </component>
@@ -91,10 +140,15 @@
       <option name="presentableId" value="Default" />
       <updated>1717950596451</updated>
       <workItem from="1717950597500" duration="3073000" />
+      <workItem from="1717963928300" duration="6686000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

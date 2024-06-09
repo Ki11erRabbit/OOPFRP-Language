@@ -1,12 +1,17 @@
 package utils;
 
+import java.util.ArrayList;
+
 public interface IObject {
 
-    Address getPath();
 
     Message handleMessage(Message message);
 
     default Message messageFailed(Message message) {
-        return new Message(message.getReturn_to(), getPath(), getPath(), "Message Not Found", null);
+        return message.createFailedResponse("Message not understood");
+    }
+
+    default void tick() {
+        // Do nothing by default
     }
 }

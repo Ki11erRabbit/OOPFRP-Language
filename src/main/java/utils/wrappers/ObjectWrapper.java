@@ -1,9 +1,9 @@
 package utils.wrappers;
 
-import utils.Data;
+import utils.IObject;
 
 import java.util.List;
 
-public class ObjectWrapper implements utils.Data {
-    List<Data> body;
+public class ObjectWrapper {
+    List<IObject> body;
 }
